@@ -1,2 +1,2 @@
 bestzwei/libretv:latest
-kodi-headless:latest
+linuxserver/plex:latest
