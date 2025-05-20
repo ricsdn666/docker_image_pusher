@@ -1,1 +1,2 @@
 bestzwei/libretv:latest
+matthuisman/kodi-headless:latest
