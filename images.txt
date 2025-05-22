@@ -1,2 +1,3 @@
 bestzwei/libretv:latest
 linuxserver/plex:latest
+kodi/kodi:latest
