@@ -1,1 +1,1 @@
-elasticsearch/elasticsearch
+elasticsearch:8.11.3
