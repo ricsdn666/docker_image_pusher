@@ -3,3 +3,4 @@ elasticsearch:8.11.3
 valkey/valkey:8
 infiniflow/ragflow:v0.20.5-slim
 infiniflow/ragflow
+zxwei/mineru-api-full:v2.1.11
